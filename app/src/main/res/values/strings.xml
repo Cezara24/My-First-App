@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Pe vârful unui deal îndepărtat, un oraș strălucea sub razele soarelui care își spuneau adio
+        zilei. Casele colorate în nuanțe pastelate, cu acoperișuri înclinate și balcoane pline de
+        flori, se alăturau străzilor pietruite ce serpuiau printre dealuri și văi. Fiecare casă avea
+        propria poveste, fiecare piatră era martoră a sute de ani de istorie.
+
+        \n\nÎn centrul orașului, o piață largă era înconjurată de clădiri impunătoare și vechi biserici
+        cu turle înalte. Oamenii se plimbau agale, împărtășind zâmbete, salutându-se și schimbând
+        câteva cuvinte. Aerul era plin de miresmele diferitelor mâncăruri gătite în bucătăriile din
+        apropiere: arome de prăjituri proaspăt scoase din cuptor, mirodenii exotice și parfumul
+        cafelei aburinde.
+
+        \n\nPe o bancă, lângă o fântână arteziană, un bătrân cu părul alb ca neaua povestea nepoților
+        săi despre vremurile de demult, când el era doar un băiat și se juca prin piață. Poveștile
+        sale erau pline de aventură, de dragoste și de magie, iar copiii stăteau cu ochii larg
+        deschiși, absorbind fiecare cuvânt.
+
+        \n\nLa marginea orașului, un râu liniștit își croia drum printre câmpii și păduri, reflectând
+        cerul albastru și norii pufoși. Pe maluri, copacii își șopteau între ei secretele, în timp
+        ce animalele se jucau în apa răcoroasă.
+
+        \n\nAcesta era un loc unde timpul părea că și-a încetinit pasul, unde fiecare moment era prețuit
+        și trăit la intensitate maximă. Aici, inimile se încălzeau sub privirile prietenoase ale
+        locuitorilor și sub gingașele raze ale soarelui, iar sufletele se regăseau în simplitatea
+        și frumusețea vieții.
+
+        \n\nPe strada principală, magazinele cu vitrine bogat decorate invitau trecătorii să se oprească
+        și să admire meșteșugurile locale. Covoare lucrate manual cu modele complexe, ceramica pictată
+        cu măiestrie și bijuterii lucrate din metale prețioase și pietre semiprețioase străluceau sub
+        atenta supraveghere a artizanilor ce le creaseră. Râsul copiilor răsuna în piață, în timp ce
+        aceștia se jucau cu mingi colorate și zburau zmeie deasupra acoperișurilor.
+
+        \n\nPe măsură ce noaptea se așternea peste oraș, luminițe începeau să licărească la ferestre, iar
+        pe străzi, felinarele erau aprinse una câte una de lămpășari. Muzicieni locali se adunau în
+        piață, aducând cu ei acordeonul, vioara și tamburina, pregătindu-se pentru o serată de muzică
+        și dans. Curând, răsunătorul ritm al muzicii îmbăta aerul, iar oamenii se alăturau în horă,
+        dansând și râzând sub mantia argintie a lunii.
+
+        \n\nLa periferia orașului, unde dealurile întâlneau cerul, o mânăstire veche se ridica mândră,
+        vegheată de călugări în robe lungi. Clopotul mânăstirii răsuna aducând cu el o notă de solemnitate,
+        amintindu-le tuturor de tradițiile și credințele care îi uneau.
+
+        \n\nDincolo de zidurile orașului, natura își dezvăluia splendoarea. Câmpurile de lavandă, înflorite
+        în diferite nuanțe de violet, erau vizitate de albinele harnice. Pădurile dense erau pline de
+        secrete și de viețuitoare care și-au făcut acolo casa, iar cerul nopții era un tablou viu de
+        stele și constelații.
+
+        \n\nÎn acest oraș, tradiția și modernitatea se întâlneau într-o armonie perfectă. Locuitorii, cu
+        inimile deschise și spiritul ospitalier, au transformat această așezare într-un sanctuar al
+        poveștilor nespuse, al bucuriei pure și al momentelor neprețuite. Fiecare zori de zi și apus
+        aducea cu el promisiunea unui nou început, a unei noi aventuri, în acest colț de rai ascuns
+        între dealuri și văi.
+    </string>
+</resources>
